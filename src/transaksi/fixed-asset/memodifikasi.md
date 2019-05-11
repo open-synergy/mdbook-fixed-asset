@@ -1,0 +1,1 @@
+# Memodifikasi Fixed Asset
