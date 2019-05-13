@@ -30,7 +30,7 @@
         - [Merestart Complex Asset Removal](./transaksi/complex-asset-removal/merestart.md)    
     - [Asset Impairment](./transaksi/asset-impairment.md)
         - [Penjelasan Asset Impairment](./transaksi/asset-impairment/penjelasan.md)
-        - [Membuat Asset Impairment](./transaksi/asset-impairment/memodifikasi.md)
+        - [Membuat Asset Impairment](./transaksi/asset-impairment/membuat.md)
         - [Memodifikasi Asset Impairment](./transaksi/asset-impairment/memodifikasi.md)
         - [Menghapus Asset Impairment](./transaksi/asset-impairment/menghapus.md)
         - [Mengkonfirmasi Asset Impairment](./transaksi/asset-impairment/mengkonfirmasi.md)
