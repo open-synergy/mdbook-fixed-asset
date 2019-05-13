@@ -1,4 +1,4 @@
-# Membuat Asset Improvement
+# Membuat Asset Impairment
 
 ## A. INPUT
 
