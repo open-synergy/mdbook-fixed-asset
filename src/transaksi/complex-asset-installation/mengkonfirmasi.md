@@ -21,3 +21,7 @@
 * Status complex asset installation akan berubah menjadi **Waiting for Approval**.
 
 ![](../../img/complex-asset-installation/status-waiting.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Complex Asset Installation**](./../complex-asset-installation.md)

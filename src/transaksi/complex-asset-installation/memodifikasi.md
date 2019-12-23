@@ -27,3 +27,7 @@
 ## C. OUTPUT
 
 * Data complex asset installation akan berubah sesuai dengan perubahan yang dilakukan.
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Complex Asset Installation**](./../complex-asset-installation.md)

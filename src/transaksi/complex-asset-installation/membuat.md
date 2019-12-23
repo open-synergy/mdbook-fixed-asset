@@ -26,3 +26,7 @@
 * Data complex asset installation akan terbuat dengan status **Draft**.
 
 ![](../../img/complex-asset-installation/status-draft.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Complex Asset Installation**](./../complex-asset-installation.md)
