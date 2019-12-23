@@ -21,3 +21,7 @@
 5. Klik tombol **Ok** pada dialog konfirmasi penghapusan yang muncul.
 
 ![](../../img/complex-asset-installation/tombol-ok-hapus.png)
+
+## C. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Complex Asset Installation**](./../complex-asset-installation.md)
