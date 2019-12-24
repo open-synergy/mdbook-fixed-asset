@@ -1,6 +1,6 @@
 # Fixed Asset Impairement
 
-**Fixed Asset Impairment** dalah fitur yang digunakan untuk mencatat dan memproses penurunan nilai aset tetap (*impairment*)
+**Fixed Asset Impairment** adalah fitur yang digunakan untuk mencatat dan memproses penurunan nilai aset tetap (*impairment*)
 
 - [Penjelasan Asset Impairment](asset-impairment/penjelasan.md)
 - [Membuat Asset Impairment](asset-impairment/membuat.md)
@@ -10,3 +10,5 @@
 - [Memvalidasi Asset Impairment](asset-impairment/memvalidasi.md)
 - [Membatalkan Asset Impairment](asset-impairment/membatalkan.md)
 - [Merestart Asset Impairment](asset-impairment/merestart.md)
+
+[**Kembali ke Menu Transaksi**](./../transaksi.md)  

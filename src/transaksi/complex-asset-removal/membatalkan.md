@@ -23,3 +23,7 @@
 * Status complex asset removal akan berubah menjadi **Cancel**.
 
 ![](../../img/complex-asset-removal/status-cancel.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Complex Asset Removal**](./../complex-asset-removal.md)

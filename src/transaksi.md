@@ -14,4 +14,5 @@ Menu Transaksi Asset dibagi menjadi
 - [Asset Retirement By Missing](./transaksi/asset-retirement-missing.md)
 - [Asset Retirement By Scrap](./transaksi/asset-retirement-scrap.md)
 - [Asset Retirement By Stolen](./transaksi/asset-retirement-stolen.md)
-- [Kembali ke Terminologi](./terminologi.md)
+
+[**Kembali ke Terminologi**](./terminologi.md)

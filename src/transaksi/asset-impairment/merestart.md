@@ -21,3 +21,7 @@
 * Status asset impairment akan berubah menjadi **Draft**.
 
 ![](../../img/asset-impairment/status-draft.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Asset Impairment**](./../asset-impairment.md)

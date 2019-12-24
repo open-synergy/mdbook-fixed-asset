@@ -10,4 +10,5 @@
 - [Memvalidasi Complex Asset Installation](complex-asset-installation/memvalidasi.md)
 - [Membatalkan Complex Asset Installation](complex-asset-installation/membatalkan.md)
 - [Merestart Complex Asset Installation](complex-asset-installation/merestart.md)
-- [**Kembali ke menu Transaksi**](./../transaksi.md)
+
+[**Kembali ke menu Transaksi**](./../transaksi.md)

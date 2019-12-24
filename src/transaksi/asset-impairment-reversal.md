@@ -10,3 +10,5 @@
 - [Memvalidasi Asset Impairment Reversal](asset-impairment-reversal/memvalidasi.md)
 - [Membatalkan Asset Impairment Reversal](asset-impairment-reversal/membatalkan.md)
 - [Merestart Asset Impairment Reversal](asset-impairment-reversal/merestart.md)
+
+[**Kembali ke Menu Transaksi**](./../transaksi.md)  

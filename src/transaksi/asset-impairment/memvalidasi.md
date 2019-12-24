@@ -21,3 +21,7 @@
 * Status asset impairment akan berubah menjadi **Valid**.
 
 ![](../../img/asset-impairment/status-valid.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Asset Impairment**](./../asset-impairment.md)

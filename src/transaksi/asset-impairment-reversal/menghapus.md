@@ -25,3 +25,7 @@
 ## C. OUTPUT
 
 * Data asset impairment reversal akan terhapus.
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Asset Impairment Reversal**](./../asset-impairment-reversal.md)

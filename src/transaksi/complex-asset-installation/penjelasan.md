@@ -19,7 +19,7 @@ Nomor Order.
 
 Tanggal Instalasi Aset.
 
-#### <a name="field-install-asset-on"># Install Asset On</a>
+#### <a name="field-install-asset-on">Install Asset On</a>
 
 Pilih dimana aset ini akan dipasang/diinstall
 (List aset merupakan daftar aset dengan type view).

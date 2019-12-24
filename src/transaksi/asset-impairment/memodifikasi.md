@@ -30,3 +30,7 @@
 ## C. OUTPUT
 
 * Data asset impairment akan berubah sesuai dengan perubahan yang dilakukan.
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Asset Impairment**](./../asset-impairment.md)

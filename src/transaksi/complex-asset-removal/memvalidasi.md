@@ -21,3 +21,7 @@
 * Status complex asset removal akan berubah menjadi **Valid**.
 
 ![](../../img/complex-asset-removal/status-valid.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Complex Asset Removal**](./../complex-asset-removal.md)
