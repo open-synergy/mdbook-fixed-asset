@@ -21,3 +21,7 @@
 * Status asset impairment akan berubah menjadi **Waiting for Approval**.
 
 ![](../../img/asset-impairment/status-waiting.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Asset Impairment**](./../asset-impairment.md)

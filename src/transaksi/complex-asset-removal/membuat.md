@@ -25,3 +25,7 @@
 * Data complex asset removal akan terbuat dengan status **Draft**.
 
 ![](../../img/complex-asset-removal/status-draft.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Complex Asset Removal**](./../complex-asset-removal.md)

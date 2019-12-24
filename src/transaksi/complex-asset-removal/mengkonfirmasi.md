@@ -21,3 +21,7 @@
 * Status complex asset removal akan berubah menjadi **Waiting for Approval**.
 
 ![](../../img/complex-asset-removal/status-waiting.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Complex Asset Removal**](./../complex-asset-removal.md)

@@ -26,3 +26,7 @@
 ## C. OUTPUT
 
 * Data complex asset removal akan berubah sesuai dengan perubahan yang dilakukan.
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Complex Asset Removal**](./../complex-asset-removal.md)

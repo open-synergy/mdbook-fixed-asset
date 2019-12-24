@@ -25,3 +25,7 @@
 ## C. OUTPUT
 
 * Data asset impairment akan terhapus.
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Asset Impairment**](./../asset-impairment.md)

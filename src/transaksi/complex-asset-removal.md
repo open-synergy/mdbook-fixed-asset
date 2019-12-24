@@ -9,4 +9,6 @@
 - [Mengkonfirmasi Complex Asset Removal](complex-asset-removal/mengkonfirmasi.md)
 - [Memvalidasi Complex Asset Removal](complex-asset-removal/memvalidasi.md)
 - [Membatalkan Complex Asset Removal](complex-asset-removal/membatalkan.md)
-- [Merestart Complex Asset Removal](complex-asset-removal/merestart.md)   
+- [Merestart Complex Asset Removal](complex-asset-removal/merestart.md)
+
+[**Kembali ke menu Transaksi**](./../transaksi.md)  

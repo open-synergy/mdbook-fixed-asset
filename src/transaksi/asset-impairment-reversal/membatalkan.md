@@ -21,3 +21,7 @@
 * Status asset impairment reversal akan berubah menjadi **Cancel**.
 
 ![](../../img/asset-impairment-reversal/status-cancel.png)
+
+## D. KEMBALI KE MENU SEBELUMNYA
+
+[**Kembali ke menu Asset Impairment Reversal**](./../asset-impairment-reversal.md)
