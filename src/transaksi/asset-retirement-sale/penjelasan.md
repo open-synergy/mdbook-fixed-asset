@@ -116,6 +116,10 @@ Gain/Loss Account Move#TODO
 
 ![](../../img/asset-retirement-sale/tab-note.png)
 
+#### <a name="field-note">Note</a>
+
+Catatan tambahan.
+
 ### <a name="tab-policy">TAB POLICY</a>
 
 ![](../../img/asset-retirement-sale/tab-policy.png)
@@ -140,10 +144,6 @@ Diisi otomatis oleh Odoo. Jika aktif, maka user yang membuka data dapat [membata
 #### <a name="field-change-can-restart">Can Restart</a>
 
 Diisi otomatis oleh Odoo. Jika aktif, maka user yang membuka data dapat [merestart transisi](./merestart.md).
-
-#### <a name="field-note">Note</a>
-
-Catatan tambahan.
 
 ### <a name="tab-log">TAB LOG</a>
 
