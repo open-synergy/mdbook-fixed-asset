@@ -7,7 +7,7 @@
 - [Memodifikasi Asset Retirement By Scrap](asset-retirement-scrap/memodifikasi.md)
 - [Menghapus Asset Retirement By Scrap](asset-retirement-scrap/menghapus.md)
 - [Mengkonfirmasi Asset Retirement By Scrap](asset-retirement-scrap/mengkonfirmasi.md)
-- [Menyetujui Asset Retirement By Scrap](asset-retirement-scrap/menyetujuii.md)
+- [Menyetujui Asset Retirement By Scrap](asset-retirement-scrap/menyetujui.md)
 - [Memvalidasi Asset Retirement By Scrap](asset-retirement-scrap/memvalidasi.md)
 - [Membatalkan Asset Retirement By Scrap](asset-retirement-scrap/membatalkan.md)
 - [Merestart Asset Retirement By Scrap](asset-retirement-scrap/merestart.md)

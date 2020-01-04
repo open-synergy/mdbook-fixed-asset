@@ -7,7 +7,7 @@
 - [Memodifikasi Asset Retirement By Stolen](asset-retirement-stolen/memodifikasi.md)
 - [Menghapus Asset Retirement By Stolen](asset-retirement-stolen/menghapus.md)
 - [Mengkonfirmasi Asset Retirement By Stolen](asset-retirement-stolen/mengkonfirmasi.md)
-- [Menyetujui Asset Retirement By Stolen](asset-retirement-stolen/menyetujuii.md)
+- [Menyetujui Asset Retirement By Stolen](asset-retirement-stolen/menyetujui.md)
 - [Memvalidasi Asset Retirement By Stolen](asset-retirement-stolen/memvalidasi.md)
 - [Membatalkan Asset Retirement By Stolen](asset-retirement-stolen/membatalkan.md)
 - [Merestart Asset Retirement By Stolen](asset-retirement-stolen/merestart.md)

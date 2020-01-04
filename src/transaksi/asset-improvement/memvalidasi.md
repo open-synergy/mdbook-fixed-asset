@@ -10,7 +10,7 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Accounting -> Assets -> Impairment -> improvement**. Abaikan jika sudah berada pada menu yang dimaksud.
+1. Buka menu **Accounting -> Assets -> Improvement**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Buka data asset improvement yang akan divalidasi. Abaikan jika data sudah dibuka.
 3. Klik tombol **Valid** pada bagian atas-kiri form.
 

@@ -7,7 +7,7 @@
 - [Memodifikasi Asset Retirement By Missing](asset-retirement-missing/memodifikasi.md)
 - [Menghapus Asset Retirement By Missing](asset-retirement-missing/menghapus.md)
 - [Mengkonfirmasi Asset Retirement By Missing](asset-retirement-missing/mengkonfirmasi.md)
-- [Menyetujui Asset Retirement By Missing](asset-retirement-missing/menyetujuii.md)
+- [Menyetujui Asset Retirement By Missing](asset-retirement-missing/menyetujui.md)
 - [Memvalidasi Asset Retirement By Missing](asset-retirement-missing/memvalidasi.md)
 - [Membatalkan Asset Retirement By Missing](asset-retirement-missing/membatalkan.md)
 - [Merestart Asset Retirement By Missing](asset-retirement-missing/merestart.md)

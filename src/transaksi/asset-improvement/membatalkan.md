@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data asset improvement yang dibatalkan tidak boleh memiliki status **Cancel**.
+* Data asset improvement yang dibatalkan **tidak boleh** memiliki status **Cancel**.
 
 ![](../../img/asset-improvement/status-cancel.png)
 
@@ -10,7 +10,7 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Accounting -> Assets -> Impairment -> Improvement**. Abaikan jika sudah berada pada menu yang dimaksud.
+1. Buka menu **Accounting -> Assets -> Improvement**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Buka data asset improvement yang akan dibatalkan. Abaikan jika data sudah dibuka.
 3. Klik tombol **Cancel** pada bagian atas-kiri form.
 
