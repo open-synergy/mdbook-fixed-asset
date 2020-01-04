@@ -7,7 +7,7 @@
 - [Memodifikasi Asset Useful Life Estimation Change](asset-useful-life-estimation-change/memodifikasi.md)
 - [Menghapus Asset Useful Life Estimation Change](asset-useful-life-estimation-change/menghapus.md)
 - [Mengkonfirmasi Asset Useful Life Estimation Change](asset-useful-life-estimation-change/mengkonfirmasi.md)
-- [Menyetujui Asset Useful Life Estimation Change](asset-useful-life-estimation-change/menyetujuii.md)
+- [Menyetujui Asset Useful Life Estimation Change](asset-useful-life-estimation-change/menyetujui.md)
 - [Memvalidasi Asset Useful Life Estimation Change](asset-useful-life-estimation-change/memvalidasi.md)
 - [Membatalkan Asset Useful Life Estimation Change](asset-useful-life-estimation-change/membatalkan.md)
 - [Merestart Asset Useful Life Estimation Change](asset-useful-life-estimation-change/merestart.md)

@@ -12,14 +12,14 @@ Informasi pada **Asset Improvement** dibagi menjadi beberapa area, diantaranya:
 
 ![](../../img/asset-improvement/header.png)
 
-#### <a name="field-dokumen"># Dokumen</a>
+#### <a name="field-dokumen"># Document</a>
 
 Nomor Dokumen.
 (Nomor akan terisi otomatis setelah dikonfirmasi)
 
 #### <a name="field-date">Date</a>
 
-Tanggal Impairment.
+Tanggal Improvement.
 
 #### <a name="field-period">Period</a>
 
@@ -30,9 +30,23 @@ Biasanya sesuai dengan tanggal
 
 Pilih Aset yang akan diimpairment.
 
-#### <a name="field-impairment-amount">Impairment Amount</a>
+#### <a name="field-currency">Curreny</a>
 
-### <a name="tab-accounting">TAB ACCOUNTING CONFIGURATION</a>
+Mata Uang (Currency).
+
+#### <a name="field-improvement-amount">Improvement Amount</a>
+
+Nilai Improvement
+
+#### <a name="field-asset-value-history">Asset Value History</a>
+
+History nilai asset
+
+#### <a name="field-depreciation-value-history">Depreciation Value History</a>
+
+History nilai penyusutan (depreciation)
+
+### <a name="tab-accounting-configuration">TAB ACCOUNTING CONFIGURATION</a>
 
 ![](../../img/asset-improvement/tab-accounting-configuration.png)
 
@@ -52,7 +66,7 @@ Akun Akumulasi Penyusutan (Accumulated Depreciation).
 
 Jurnal.
 
-### <a name="tab-accounting">TAB ACCOUNTING ENTRY</a>
+### <a name="tab-accounting-entry">TAB ACCOUNTING ENTRY</a>
 
 ![](../../img/asset-improvement/tab-accounting-entry.png)
 
