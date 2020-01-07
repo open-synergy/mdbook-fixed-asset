@@ -1,4 +1,4 @@
-# Membuat Asset Retirement By Scrap
+# Membuat Asset Retirement By Stolen
 
 ## A. INPUT
 
@@ -6,10 +6,10 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Accounting -> Assets -> Retirement -> Retirement By Scrap**. Abaikan jika sudah berada pada menu yang dimaksud.
+1. Buka menu **Accounting -> Assets -> Retirement -> Retirement By Stolen**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Klik tombol **Create** pada bagian atas-kiri form.
 
-![](../../img/asset-retirement-scrap/tombol-create.png)
+![](../../img/asset-retirement-stolen/tombol-create.png)
 
 3. Isi dan sesuaikan **[# Document](./penjelasan.md#field-document)** jika dibutuhkan. Harus diisi.
 4. Isi **[Disposition Date](./penjelasan.md#field-date)**. Harus diisi.
@@ -40,14 +40,14 @@
 29. Isi **[Note](./penjelasan.md#field-note)**. Tidak Harus diisi.
 30. Klik tombol **Save** pada bagian atas-kiri form.
 
-![](../../img/asset-retirement-scrap/tombol-simpan.png)
+![](../../img/asset-retirement-stolen/tombol-simpan.png)
 
 ## C. OUTPUT
 
-* Data Asset Retirement By Scrap akan terbuat dengan status **Draft**.
+* Data Asset Retirement By Stolen akan terbuat dengan status **Draft**.
 
-![](../../img/asset-retirement-scrap/status-draft.png)
+![](../../img/asset-retirement-stolen/status-draft.png)
 
 ## D. KEMBALI KE MENU SEBELUMNYA
 
-[**Kembali ke menu Asset Retirement By Scrap**](./../asset-retirement-scrap.md)
+[**Kembali ke menu Asset Retirement By Stolen**](./../asset-retirement-stolen.md)
