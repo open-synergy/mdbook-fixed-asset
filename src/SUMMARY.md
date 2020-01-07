@@ -117,8 +117,8 @@
         - [Membatalkan Asset Retirement By Scrap](./transaksi/asset-retirement-scrap/membatalkan.md)
         - [Merestart Asset Retirement By Scrap](./transaksi/asset-retirement-scrap/merestart.md)
     - [Asset Retirement By Stolen](./transaksi/asset-retirement-stolen.md)
-        - [Penjelasan Asset Retirement By Stolen](./transaksi/asset-retirement-stolen/penjelasan.md)\
-        - [Membuat Asset Retirement By Stolen](./transaksi/asset-retirement-stolen/memodifikasi.md)
+        - [Penjelasan Asset Retirement By Stolen](./transaksi/asset-retirement-stolen/penjelasan.md)
+        - [Membuat Asset Retirement By Stolen](./transaksi/asset-retirement-stolen/membuat.md)
         - [Memodifikasi Asset Retirement By Stolen](./transaksi/asset-retirement-stolen/memodifikasi.md)
         - [Menghapus Asset Retirement By Stolen](./transaksi/asset-retirement-stolen/menghapus.md)
         - [Mengkonfirmasi Asset Retirement By Stolen](./transaksi/asset-retirement-stolen/mengkonfirmasi.md)

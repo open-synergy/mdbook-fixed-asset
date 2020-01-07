@@ -8,7 +8,7 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Accounting -> Assets -> Retirement -> Retirement By donationion**. Abaikan jika sudah berada pada menu yang dimaksud.
+1. Buka menu **Accounting -> Assets -> Retirement -> Retirement By donation**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Buka data Asset Retirement By Donation yang akan dihapus. Abaikan jika data sudah dibuka.
 3. Klik tombol **More** pada bagian atas-kiri form.
 
