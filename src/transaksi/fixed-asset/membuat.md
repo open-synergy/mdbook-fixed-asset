@@ -11,7 +11,7 @@
 
 ![](../../img/fixed-asset/tombol-create.png)
 
-3. Ubah **[# Asset](./penjelasan.md#field-name)** dengan penomeran yang dikehendaki. Biarkan berisi **/**
+3. Ubah **[Code of Asset](./penjelasan.md#field-name)** dengan penomeran yang dikehendaki. Biarkan berisi **/**
 apabila menghendaki penomeran otomatis. Wajib diisi.
 4. Isi **[Name of Asset](./penjelasan.md#field-name)**. Wajib diisi.
 5. Pilih **[Parent Asset](./penjelasan.md#field-parent-asset)**. Wajib diisi.
