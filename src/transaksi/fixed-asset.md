@@ -7,5 +7,7 @@
 - [Memodifikasi Fixed Asset](./fixed-asset/memodifikasi.md)
 - [Menghapus Fixed Asset](./fixed-asset/menghapus.md)
 - [Mengkonfirmasi Fixed Asset](./fixed-asset/mengkonfirmasi.md)
+- Membuat Tabel Depresiasi Fixed asset
 - Menyetujui Fixed asset
+- Membatalkan Fixed asset
 - Menolak Fixed asset
